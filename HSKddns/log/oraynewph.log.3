@@ -1,0 +1,37 @@
+[5808]2017-04-29 09:45:57	- Info  -	Oray NewPeanuthull Service v3, 3, 0, 14073
+[5808]2017-04-29 09:45:57	- Info  -	install ddns services...
+[5808]2017-04-29 09:45:57	- Info  -	[ddns_manager] get_config_account begin
+[5808]2017-04-29 09:45:57	- Info  -	[ddns_manager] get_config_account end, load user: hjdonghaibin ok
+[5808]2017-04-29 09:45:57	- Info  -	hskddns interface process is exist, so it's no need to login
+[5808]2017-04-29 09:45:57	- Info  -	[simpleserver] start ok.
+[5808]2017-04-29 09:45:57	- Info  -	New connection accepted, queue client
+[5808]2017-04-29 09:45:57	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:45:57	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:45:57	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:45:57	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:45:57	- Info  -	[ddns_manager] get_config_account begin
+[5808]2017-04-29 09:45:57	- Info  -	[ddns_manager] get_config_account end, load user: hjdonghaibin ok
+[5808]2017-04-29 09:45:57	- Info  -	[ddns] loginning... username=hjdonghaibin, host=phddns60std.oray.net
+[5808]2017-04-29 09:45:57	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] OnUserInfo
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] OnAccountDomainInfo
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5808]2017-04-29 09:45:58	- Info  -	ForwardService Set Account : hjdonghaibin begin
+[5808]2017-04-29 09:45:58	- Info  -	[fw_service]: save_only
+[5808]2017-04-29 09:45:58	= Debug =	[slapi] http call url:https://v3.cphapi.oray.net/server/get-oraysl?parameters={"auth":"3e02370e7706c33b2b4299844e30c33d","r":41,"sign":"13409843","usertype":0,"version":"phclient/3.3.0.14073"}
+[5808]2017-04-29 09:45:58	= Debug =	[http_call] attempt to connect server: v3.cphapi.oray.net/server/get-oraysl
+[5808]2017-04-29 09:45:58	= Debug =	[http_call] create new stream because alive streams is empty.
+[5808]2017-04-29 09:45:58	- Info  -	[http_call] connect server: v3.cphapi.oray.net:443(121.40.172.35)
+[5808]2017-04-29 09:45:58	= Debug =	[slapi] http respone:{"code":0,"data":{"host":"phsle-std01.oray.net:6061","hostid":1,"sign":"13409843"}}
+[5808]2017-04-29 09:45:58	- Info  -	[oraysl addr]get oraysl addr : phsle-std01.oray.net:6061
+[5808]2017-04-29 09:45:58	- Info  -	[start oraysl]strExec : PHDDnsOraysl.exe, bRet : 1, err : 18
+[5808]2017-04-29 09:45:58	- Info  -	ForwardService Set Account : hjdonghaibin end
+[5808]2017-04-29 09:45:58	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5808]2017-04-29 09:45:58	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:45:59	- Info  -	New connection accepted rpcclient
+[5808]2017-04-29 09:46:00	- Info  -	ddns_updater::stop
+[5808]2017-04-29 09:46:01	- Info  -	[fw_service] RemoveCurrentAccount
+[5808]2017-04-29 09:46:01	- Info  -	[fw_service] finish to RemoveCurrentAccount
+[5808]2017-04-29 09:46:01	= Debug =	ddns_updater::~ddns_updater()

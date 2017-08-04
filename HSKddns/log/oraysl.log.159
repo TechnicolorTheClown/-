@@ -1,0 +1,862 @@
+[6572]2017-06-23 10:46:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:46:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:46:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:46:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:48:00	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:48:00	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:48:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:48:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:48:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:48:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:48:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:48:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:49:08	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:49:08	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:49:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:49:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:49:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:49:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:49:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:49:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:50:17	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:50:17	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:50:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:50:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:50:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:50:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:50:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:50:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:51:25	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:51:25	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:51:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:51:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:51:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:51:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:51:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:51:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:52:34	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:52:34	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:52:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:52:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:52:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:52:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:52:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:52:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:53:42	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:53:42	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:53:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:53:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:53:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:53:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:53:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:53:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:54:51	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:54:51	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:54:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:54:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:54:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:54:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:54:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:54:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:55:59	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:55:59	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:55:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:55:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:55:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:55:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:55:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:55:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:57:08	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:57:08	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:57:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:57:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:57:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:57:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:57:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:57:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:58:16	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:58:16	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:58:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:58:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:58:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:58:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:58:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:58:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:59:25	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:59:25	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:59:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:59:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:59:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:59:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:59:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:59:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:00:33	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:00:33	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:00:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:00:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:00:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:00:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:00:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:00:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:01:42	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:01:42	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:01:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:01:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:01:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:01:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:01:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:01:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:02:50	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:02:50	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:02:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:02:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:02:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:02:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:02:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:02:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:03:59	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:03:59	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:03:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:03:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:03:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:03:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:03:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:03:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:05:07	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:05:07	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:05:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:05:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:05:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:05:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:05:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:05:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:06:16	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:06:16	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:06:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:06:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:06:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:06:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:06:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:06:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:07:24	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:07:24	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:07:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:07:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:07:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:07:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:07:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:07:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:08:33	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:08:33	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:08:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:08:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:08:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:08:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:08:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:08:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:09:41	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:09:41	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:09:41	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:09:41	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:09:41	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:09:41	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:09:41	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:09:41	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:10:50	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:10:50	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:10:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:10:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:10:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:10:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:10:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:10:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:11:58	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:11:58	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:11:58	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:11:58	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:11:58	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:11:58	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:11:58	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:11:58	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:13:06	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:13:06	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:13:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:13:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:13:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:13:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:13:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:13:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:14:15	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:14:15	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:14:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:14:15	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:14:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:14:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:14:15	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:14:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:15:23	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:15:23	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:15:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:15:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:15:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:15:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:15:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:15:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:16:32	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:16:32	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:16:32	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:16:32	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:16:32	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:16:32	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:16:32	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:16:32	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:17:40	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:17:40	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:17:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:17:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:17:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:17:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:17:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:17:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:18:49	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:18:49	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:18:49	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:18:49	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:18:49	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:18:49	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:18:49	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:18:49	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:19:57	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:19:57	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:19:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:19:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:19:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:19:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:19:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:19:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:21:06	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:21:06	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:21:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:21:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:21:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:21:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:21:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:21:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:22:14	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:22:14	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:22:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:22:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:22:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:22:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:22:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:22:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:23:23	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:23:23	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:23:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:23:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:23:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:23:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:23:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:23:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:24:31	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:24:31	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:24:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:24:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:24:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:24:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:24:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:24:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:25:40	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:25:40	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:25:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:25:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:25:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:25:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:25:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:25:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:26:48	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:26:48	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:26:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:26:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:26:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:26:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:26:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:26:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:27:57	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:27:57	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:27:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:27:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:27:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:27:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:27:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:27:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:29:05	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:29:05	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:29:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:29:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:29:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:29:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:29:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:29:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:30:14	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:30:14	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:30:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:30:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:30:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:30:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:30:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:30:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:31:22	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:31:22	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:31:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:31:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:31:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:31:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:31:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:31:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:32:31	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:32:31	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:32:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:32:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:32:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:32:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:32:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:32:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:33:39	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:33:39	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:33:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:33:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:33:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:33:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:33:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:33:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:34:48	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:34:48	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:34:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:34:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:34:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:34:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:34:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:34:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:35:56	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:35:56	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:35:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:35:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:35:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:35:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:35:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:35:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:37:05	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:37:05	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:37:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:37:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:37:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:37:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:37:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:37:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:38:13	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:38:13	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:38:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:38:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:38:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:38:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:38:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:38:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:39:22	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:39:22	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:39:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:39:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:39:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:39:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:39:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:39:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:40:30	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:40:30	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:40:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:40:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:40:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:40:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:40:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:40:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:41:39	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:41:39	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:41:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:41:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:41:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:41:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:41:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:41:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:42:47	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:42:47	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:42:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:42:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:42:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:42:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:42:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:42:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:43:56	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:43:56	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:43:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:43:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:43:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:43:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:43:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:43:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:45:04	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:45:04	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:45:04	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:45:04	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:45:04	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:45:04	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:45:04	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:45:04	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:46:13	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:46:13	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:46:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:46:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:46:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:46:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:46:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:46:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:47:21	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:47:21	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:47:21	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:47:21	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:47:21	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:47:21	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:47:21	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:47:21	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:48:30	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:48:30	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:48:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:48:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:48:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:48:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:48:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:48:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:49:38	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:49:38	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:49:38	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:49:38	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:49:38	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:49:38	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:49:38	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:49:38	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:50:46	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:50:46	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:50:46	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:50:46	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:50:46	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:50:46	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:50:46	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:50:46	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:51:55	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:51:55	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:51:55	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:51:55	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:51:55	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:51:55	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:51:55	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:51:55	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:53:03	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:53:03	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:53:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:53:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:53:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:53:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:53:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:53:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:54:12	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:54:12	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:54:12	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:54:12	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:54:12	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:54:12	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:54:12	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:54:12	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:55:20	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 11:55:20	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:55:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:55:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:55:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:55:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:55:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:55:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:56:25	- Info  -	attempt to connect server phsle-std01.oray.net:6061(192.238.24.120:6061)
+[6572]2017-06-23 11:56:35	* Error *	[basestream] connect server timeout, 10000
+[6572]2017-06-23 11:56:35	* Error *	[tcpstream] read/write timeout
+[6572]2017-06-23 11:56:35	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 11:56:35	- Info  -	receive state change RETRY
+[6572]2017-06-23 11:56:35	* Error *	receive state change error: no license.
+[6572]2017-06-23 11:56:35	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 11:57:06	- Info  -	attempt to connect server phsle-std01.oray.net:6061(120.24.238.192:6061)
+[6572]2017-06-23 11:57:06	- Info  -	[Logon] connected server phsle-std01.oray.net:6061 (120.24.238.192:6061)
+[6572]2017-06-23 11:57:06	- Info  -	[Logon] attempted to update code
+[6572]2017-06-23 11:57:06	- Info  -	[fw] login license -> fastcode=01709f4623fcc0f7c8f110bcc37fb0eb&fastpwd=
+[6572]2017-06-23 11:57:06	- Info  -	[Logon] logon server OK. public ip:218.108.124.170
+[6572]2017-06-23 11:57:06	- Info  -	[On-line] connected server.
+[6572]2017-06-23 11:57:06	- Info  -	[On-line] received login response
+[6572]2017-06-23 11:57:06	- Info  -	[Service] changed the state into on-line.
+[6572]2017-06-23 11:57:06	- Info  -	receive state change ONLINE
+[6572]2017-06-23 11:57:06	- Info  -	[On-line] received name: , description:
+[6572]2017-06-23 11:57:06	- Info  -	[RemoteControl] connected server.
+[6572]2017-06-23 11:58:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 11:59:13	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:00:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:01:13	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:02:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:03:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:04:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:05:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:06:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:07:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:08:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:09:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:10:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:11:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:12:06	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:15:06	+Warning+	[passive:keepalive:] 120.24.238.192:6061 disconnect by keepalive timeout(4764983630>=4764803121+120000)
+[6572]2017-06-23 12:15:06	- Info  -	[On-line] disconnected server
+[6572]2017-06-23 12:15:06	- Info  -	[RemoteControl] disconnected server
+[6572]2017-06-23 12:15:06	- Info  -	[Logon] disconnected server
+[6572]2017-06-23 12:15:06	- Info  -	[Service] changed the state into re-login.
+[6572]2017-06-23 12:15:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 12:15:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 12:16:15	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 12:16:15	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 12:16:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 12:16:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 12:16:15	- Info  -	[Service] changed the state into re-login.
+[6572]2017-06-23 12:16:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 12:16:15	* Error *	receive state change error: no license.
+[6572]2017-06-23 12:16:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 12:16:45	- Info  -	attempt to connect server phsle-std01.oray.net:6061(120.24.238.192:6061)
+[6572]2017-06-23 12:16:45	- Info  -	[Logon] connected server phsle-std01.oray.net:6061 (120.24.238.192:6061)
+[6572]2017-06-23 12:16:45	- Info  -	[Logon] attempted to update code
+[6572]2017-06-23 12:16:45	- Info  -	[fw] login license -> fastcode=01709f4623fcc0f7c8f110bcc37fb0eb&fastpwd=
+[6572]2017-06-23 12:16:45	- Info  -	[Logon] logon server OK. public ip:218.108.124.175
+[6572]2017-06-23 12:16:45	- Info  -	[On-line] connected server.
+[6572]2017-06-23 12:16:45	- Info  -	[On-line] received login response
+[6572]2017-06-23 12:16:45	- Info  -	[Service] changed the state into on-line.
+[6572]2017-06-23 12:16:45	- Info  -	receive state change ONLINE
+[6572]2017-06-23 12:16:45	- Info  -	[On-line] received name: , description:
+[6572]2017-06-23 12:16:45	- Info  -	[RemoteControl] connected server.
+[6572]2017-06-23 12:17:45	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:19:43	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:19:45	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:22:45	+Warning+	[passive:keepalive:] 120.24.238.192:6061 disconnect by keepalive timeout(4765442476>=4765262294+120000)
+[6572]2017-06-23 12:22:45	- Info  -	[On-line] disconnected server
+[6572]2017-06-23 12:22:45	- Info  -	[RemoteControl] disconnected server
+[6572]2017-06-23 12:22:45	- Info  -	[Logon] disconnected server
+[6572]2017-06-23 12:22:45	- Info  -	[Service] changed the state into re-login.
+[6572]2017-06-23 12:22:45	- Info  -	receive state change RETRY
+[6572]2017-06-23 12:22:45	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 12:23:15	- Info  -	attempt to connect server phsle-std01.oray.net:6061(120.24.238.192:6061)
+[6572]2017-06-23 12:23:15	- Info  -	[Logon] connected server phsle-std01.oray.net:6061 (120.24.238.192:6061)
+[6572]2017-06-23 12:23:15	- Info  -	[Logon] attempted to update code
+[6572]2017-06-23 12:23:15	- Info  -	[fw] login license -> fastcode=01709f4623fcc0f7c8f110bcc37fb0eb&fastpwd=
+[6572]2017-06-23 12:23:15	- Info  -	[Logon] logon server OK. public ip:218.108.228.181
+[6572]2017-06-23 12:23:15	- Info  -	[On-line] connected server.
+[6572]2017-06-23 12:23:15	- Info  -	[On-line] received login response
+[6572]2017-06-23 12:23:15	- Info  -	[Service] changed the state into on-line.
+[6572]2017-06-23 12:23:15	- Info  -	receive state change ONLINE
+[6572]2017-06-23 12:23:15	- Info  -	[On-line] received name: , description:
+[6572]2017-06-23 12:23:16	- Info  -	[RemoteControl] connected server.
+[6572]2017-06-23 12:24:19	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:25:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:26:32	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:28:32	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:29:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:30:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:31:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:32:31	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:33:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:34:31	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:35:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:36:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:37:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:38:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:39:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:40:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:41:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:42:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:43:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:44:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:45:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:46:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:47:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:48:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:49:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:50:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:52:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:53:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:54:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:55:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:56:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:57:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:58:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 12:59:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:00:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:01:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:02:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:03:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:04:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:05:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:06:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:07:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:08:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:09:30	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:10:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:11:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:12:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:13:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:14:30	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:15:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:16:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:17:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:18:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:19:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:20:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:21:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:22:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:23:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:24:30	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:25:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:26:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:27:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:28:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:29:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:30:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:31:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:32:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:33:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:35:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:36:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:37:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:38:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:39:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:40:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:41:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:42:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:43:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:44:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:45:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:46:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:47:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:48:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:49:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:50:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:51:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:52:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:53:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:54:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:55:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:56:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:57:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:58:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 13:59:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:00:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:01:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:02:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:03:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:04:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:05:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:06:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:07:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:08:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:09:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:10:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:11:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:12:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:13:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:14:19	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:15:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:16:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:17:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:18:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:19:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:20:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:21:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:22:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:23:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:24:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:25:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:26:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:27:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:28:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:29:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:30:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:31:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:32:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:33:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:34:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:35:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:36:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:37:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:38:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:39:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:40:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:41:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:42:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:43:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:44:19	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:45:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:46:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:47:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:48:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:49:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:50:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:51:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:52:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:53:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:54:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:55:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:56:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:57:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:58:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 14:59:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:00:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:01:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:02:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:03:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:04:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:05:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:07:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:08:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:09:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:10:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:11:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:12:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:13:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:14:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:15:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:16:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:17:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:18:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:19:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:20:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:21:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:22:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:23:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:24:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:25:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:26:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:27:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:28:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:29:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:30:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:31:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:32:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:33:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:34:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:35:23	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:36:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:37:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:38:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:39:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:40:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:41:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:42:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:43:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:44:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:45:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:46:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:47:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:48:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:49:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:50:15	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:51:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:52:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:53:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:54:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:55:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:56:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:57:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:58:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 15:59:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:00:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:01:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:02:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:03:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:04:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:05:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:06:30	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:07:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:08:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:09:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:10:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:11:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:12:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:13:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:14:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:15:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:16:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:17:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:18:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:19:19	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:20:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:21:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:22:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:23:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:24:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:25:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:26:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:27:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:28:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:29:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:30:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:31:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:32:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:33:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:34:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:35:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:36:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:37:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:38:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:39:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:40:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:41:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:42:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:43:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:44:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:45:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:46:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:47:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:48:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:49:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:50:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:51:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:52:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:53:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:54:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:55:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:56:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:57:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:58:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 16:59:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:00:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:01:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:02:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:03:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:04:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:05:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:06:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:07:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:08:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:09:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:10:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:11:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:12:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:13:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:14:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:15:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:16:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:17:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:18:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:19:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:20:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:21:17	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:22:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:23:19	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:24:16	- Info  -	[On-line] receive keepalive message.
+[6572]2017-06-23 17:25:16	- Info  -	[On-line] receive keepalive message.

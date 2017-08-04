@@ -1,0 +1,856 @@
+[6572]2017-06-23 08:44:44	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:44:44	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:44:44	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:44:44	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:45:52	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:45:52	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:45:52	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:45:52	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:45:52	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:45:52	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:45:52	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:45:52	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:47:00	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:47:00	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:47:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:47:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:47:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:47:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:47:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:47:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:48:09	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:48:09	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:48:09	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:48:09	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:48:09	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:48:09	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:48:09	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:48:09	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:49:17	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:49:17	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:49:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:49:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:49:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:49:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:49:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:49:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:50:26	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:50:26	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:50:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:50:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:50:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:50:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:50:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:50:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:51:34	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:51:34	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:51:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:51:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:51:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:51:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:51:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:51:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:52:43	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:52:43	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:52:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:52:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:52:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:52:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:52:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:52:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:53:51	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:53:51	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:53:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:53:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:53:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:53:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:53:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:53:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:55:00	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:55:00	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:55:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:55:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:55:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:55:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:55:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:55:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:56:08	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:56:08	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:56:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:56:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:56:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:56:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:56:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:56:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:57:17	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:57:17	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:57:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:57:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:57:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:57:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:57:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:57:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:58:25	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:58:25	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:58:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:58:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:58:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:58:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:58:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:58:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:59:34	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 08:59:34	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 08:59:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:59:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:59:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 08:59:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 08:59:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 08:59:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:00:42	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:00:42	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:00:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:00:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:00:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:00:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:00:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:00:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:01:51	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:01:51	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:01:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:01:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:01:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:01:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:01:51	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:01:51	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:02:59	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:02:59	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:02:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:02:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:02:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:02:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:02:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:02:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:04:08	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:04:08	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:04:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:04:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:04:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:04:08	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:04:08	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:04:08	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:05:16	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:05:16	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:05:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:05:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:05:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:05:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:05:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:05:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:06:25	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:06:25	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:06:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:06:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:06:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:06:25	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:06:25	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:06:25	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:07:33	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:07:33	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:07:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:07:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:07:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:07:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:07:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:07:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:08:42	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:08:42	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:08:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:08:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:08:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:08:42	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:08:42	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:08:42	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:09:50	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:09:50	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:09:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:09:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:09:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:09:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:09:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:09:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:10:59	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:10:59	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:10:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:10:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:10:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:10:59	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:10:59	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:10:59	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:12:07	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:12:07	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:12:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:12:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:12:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:12:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:12:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:12:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:13:16	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:13:16	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:13:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:13:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:13:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:13:16	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:13:16	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:13:16	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:14:24	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:14:24	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:14:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:14:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:14:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:14:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:14:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:14:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:15:33	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:15:33	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:15:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:15:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:15:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:15:33	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:15:33	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:15:33	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:16:41	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:16:41	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:16:41	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:16:41	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:16:41	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:16:41	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:16:41	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:16:41	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:17:50	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:17:50	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:17:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:17:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:17:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:17:50	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:17:50	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:17:50	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:18:58	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:18:58	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:18:58	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:18:58	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:18:58	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:18:58	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:18:58	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:18:58	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:20:07	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:20:07	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:20:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:20:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:20:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:20:07	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:20:07	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:20:07	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:21:15	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:21:15	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:21:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:21:15	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:21:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:21:15	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:21:15	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:21:15	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:22:24	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:22:24	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:22:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:22:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:22:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:22:24	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:22:24	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:22:24	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:23:32	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:23:32	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:23:32	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:23:32	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:23:32	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:23:32	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:23:32	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:23:32	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:24:40	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:24:40	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:24:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:24:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:24:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:24:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:24:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:24:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:25:49	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:25:49	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:25:49	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:25:49	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:25:49	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:25:49	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:25:49	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:25:49	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:26:57	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:26:57	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:26:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:26:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:26:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:26:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:26:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:26:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:28:06	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:28:06	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:28:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:28:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:28:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:28:06	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:28:06	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:28:06	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:29:14	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:29:14	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:29:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:29:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:29:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:29:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:29:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:29:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:30:23	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:30:23	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:30:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:30:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:30:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:30:23	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:30:23	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:30:23	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:31:31	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:31:31	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:31:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:31:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:31:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:31:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:31:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:31:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:32:40	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:32:40	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:32:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:32:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:32:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:32:40	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:32:40	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:32:40	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:33:48	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:33:48	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:33:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:33:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:33:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:33:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:33:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:33:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:34:57	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:34:57	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:34:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:34:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:34:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:34:57	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:34:57	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:34:57	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:36:05	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:36:05	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:36:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:36:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:36:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:36:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:36:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:36:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:37:14	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:37:14	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:37:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:37:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:37:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:37:14	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:37:14	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:37:14	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:38:22	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:38:22	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:38:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:38:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:38:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:38:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:38:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:38:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:39:31	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:39:31	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:39:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:39:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:39:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:39:31	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:39:31	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:39:31	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:40:39	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:40:39	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:40:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:40:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:40:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:40:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:40:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:40:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:41:48	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:41:48	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:41:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:41:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:41:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:41:48	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:41:48	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:41:48	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:42:56	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:42:56	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:42:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:42:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:42:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:42:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:42:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:42:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:44:05	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:44:05	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:44:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:44:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:44:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:44:05	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:44:05	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:44:05	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:45:13	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:45:13	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:45:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:45:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:45:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:45:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:45:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:45:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:46:22	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:46:22	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:46:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:46:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:46:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:46:22	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:46:22	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:46:22	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:47:30	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:47:30	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:47:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:47:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:47:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:47:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:47:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:47:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:48:39	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:48:39	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:48:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:48:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:48:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:48:39	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:48:39	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:48:39	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:49:47	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:49:47	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:49:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:49:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:49:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:49:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:49:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:49:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:50:56	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:50:56	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:50:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:50:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:50:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:50:56	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:50:56	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:50:56	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:52:04	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:52:04	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:52:04	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:52:04	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:52:04	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:52:04	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:52:04	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:52:04	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:53:13	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:53:13	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:53:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:53:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:53:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:53:13	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:53:13	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:53:13	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:54:21	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:54:21	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:54:21	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:54:21	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:54:21	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:54:21	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:54:21	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:54:21	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:55:30	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:55:30	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:55:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:55:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:55:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:55:30	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:55:30	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:55:30	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:56:38	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:56:38	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:56:38	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:56:38	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:56:38	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:56:38	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:56:38	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:56:38	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:57:47	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:57:47	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:57:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:57:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:57:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:57:47	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:57:47	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:57:47	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:58:55	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 09:58:55	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 09:58:55	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:58:55	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:58:55	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 09:58:55	- Info  -	receive state change RETRY
+[6572]2017-06-23 09:58:55	* Error *	receive state change error: no license.
+[6572]2017-06-23 09:58:55	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:00:03	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:00:03	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:00:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:00:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:00:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:00:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:00:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:00:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:01:12	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:01:12	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:01:12	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:01:12	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:01:12	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:01:12	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:01:12	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:01:12	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:02:20	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:02:20	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:02:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:02:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:02:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:02:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:02:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:02:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:03:29	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:03:29	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:03:29	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:03:29	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:03:29	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:03:29	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:03:29	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:03:29	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:04:37	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:04:37	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:04:37	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:04:37	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:04:37	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:04:37	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:04:37	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:04:37	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:05:46	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:05:46	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:05:46	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:05:46	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:05:46	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:05:46	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:05:46	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:05:46	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:06:54	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:06:54	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:06:54	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:06:54	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:06:54	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:06:54	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:06:54	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:06:54	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:08:03	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:08:03	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:08:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:08:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:08:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:08:03	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:08:03	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:08:03	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:09:11	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:09:11	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:09:11	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:09:11	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:09:11	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:09:11	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:09:11	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:09:11	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:10:20	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:10:20	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:10:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:10:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:10:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:10:20	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:10:20	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:10:20	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:11:28	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:11:28	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:11:28	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:11:28	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:11:28	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:11:28	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:11:28	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:11:28	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:12:37	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:12:37	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:12:37	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:12:37	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:12:37	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:12:37	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:12:37	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:12:37	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:13:45	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:13:45	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:13:45	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:13:45	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:13:45	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:13:45	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:13:45	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:13:45	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:14:54	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:14:54	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:14:54	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:14:54	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:14:54	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:14:54	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:14:54	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:14:54	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:16:02	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:16:02	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:16:02	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:16:02	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:16:02	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:16:02	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:16:02	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:16:02	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:17:11	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:17:11	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:17:11	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:17:11	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:17:11	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:17:11	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:17:11	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:17:11	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:18:19	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:18:19	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:18:19	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:18:19	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:18:19	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:18:19	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:18:19	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:18:19	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:19:28	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:19:28	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:19:28	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:19:28	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:19:28	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:19:28	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:19:28	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:19:28	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:20:36	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:20:36	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:20:36	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:20:36	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:20:36	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:20:36	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:20:36	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:20:36	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:21:45	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:21:45	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:21:45	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:21:45	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:21:45	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:21:45	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:21:45	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:21:45	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:22:53	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:22:53	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:22:53	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:22:53	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:22:53	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:22:53	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:22:53	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:22:53	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:24:02	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:24:02	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:24:02	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:24:02	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:24:02	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:24:02	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:24:02	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:24:02	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:25:10	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:25:10	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:25:10	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:25:10	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:25:10	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:25:10	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:25:10	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:25:10	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:26:19	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:26:19	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:26:19	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:26:19	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:26:19	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:26:19	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:26:19	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:26:19	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:27:27	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:27:27	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:27:27	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:27:27	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:27:27	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:27:27	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:27:27	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:27:27	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:28:36	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:28:36	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:28:36	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:28:36	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:28:36	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:28:36	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:28:36	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:28:36	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:29:44	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:29:44	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:29:44	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:29:44	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:29:44	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:29:44	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:29:44	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:29:44	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:30:53	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:30:53	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:30:53	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:30:53	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:30:53	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:30:53	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:30:53	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:30:53	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:32:01	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:32:01	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:32:01	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:32:01	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:32:01	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:32:01	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:32:01	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:32:01	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:33:10	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:33:10	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:33:10	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:33:10	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:33:10	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:33:10	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:33:10	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:33:10	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:34:18	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:34:18	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:34:18	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:34:18	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:34:18	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:34:18	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:34:18	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:34:18	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:35:26	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:35:26	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:35:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:35:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:35:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:35:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:35:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:35:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:36:35	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:36:35	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:36:35	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:36:35	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:36:35	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:36:35	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:36:35	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:36:35	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:37:43	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:37:43	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:37:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:37:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:37:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:37:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:37:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:37:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:38:52	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:38:52	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:38:52	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:38:52	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:38:52	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:38:52	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:38:52	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:38:52	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:40:00	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:40:00	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:40:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:40:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:40:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:40:00	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:40:00	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:40:00	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:41:09	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:41:09	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:41:09	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:41:09	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:41:09	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:41:09	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:41:09	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:41:09	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:42:17	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:42:17	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:42:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:42:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:42:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:42:17	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:42:17	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:42:17	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:43:26	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:43:26	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:43:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:43:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:43:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:43:26	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:43:26	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:43:26	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:44:34	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:44:34	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:44:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:44:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:44:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:44:34	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:44:34	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:44:34	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:45:43	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:45:43	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:45:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:45:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:45:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:45:43	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:45:43	* Error *	receive state change error: no license.
+[6572]2017-06-23 10:45:43	- Info  -	[Service] attempt to retry after 30 seconds
+[6572]2017-06-23 10:46:51	* Error *	[Service] connected TCP Server failed
+[6572]2017-06-23 10:46:51	* Error *	[Logon] connect server(phsle-std01.oray.net:6061) failed
+[6572]2017-06-23 10:46:51	- Info  -	receive state change RETRY
+[6572]2017-06-23 10:46:51	* Error *	receive state change error: no license.

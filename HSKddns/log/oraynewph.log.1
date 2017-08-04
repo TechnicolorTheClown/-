@@ -1,0 +1,681 @@
+[5964]2017-03-27 14:47:00	- Info  -	Oray NewPeanuthull Service v3, 3, 0, 14073
+[5964]2017-03-27 14:47:00	- Info  -	install ddns services...
+[5964]2017-03-27 14:47:00	- Info  -	[ddns_manager] get_config_account begin
+[5964]2017-03-27 14:47:00	- Info  -	[ddns_manager] get_config_account end, load user: hjdonghaibin ok
+[5964]2017-03-27 14:47:00	- Info  -	hskddns interface process is not exist, so auto try to login now
+[5964]2017-03-27 14:47:00	- Info  -	[ddns] loginning... username=hjdonghaibin, host=phddns60std.oray.net
+[5964]2017-03-27 14:47:00	- Info  -	[simpleserver] start ok.
+[5964]2017-03-27 14:47:00	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-03-27 14:47:01	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-03-27 14:47:01	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-03-27 14:47:01	- Info  -	[ddns] OnUserInfo
+[5964]2017-03-27 14:47:01	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-03-27 14:47:01	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-03-27 14:47:01	- Info  -	ForwardService Set Account : hjdonghaibin begin
+[5964]2017-03-27 14:47:01	- Info  -	[fw_service]: save_only
+[5964]2017-03-27 14:47:01	= Debug =	[slapi] http call url:https://v3.cphapi.oray.net/server/get-oraysl?parameters={"auth":"3e02370e7706c33b2b4299844e30c33d","r":41,"sign":"13409843","usertype":0,"version":"phclient/3.3.0.14073"}
+[5964]2017-03-27 14:47:01	= Debug =	[http_call] attempt to connect server: v3.cphapi.oray.net/server/get-oraysl
+[5964]2017-03-27 14:47:01	= Debug =	[http_call] create new stream because alive streams is empty.
+[5964]2017-03-27 14:47:01	- Info  -	[http_call] connect server: v3.cphapi.oray.net:443(121.40.172.35)
+[5964]2017-03-27 14:47:02	= Debug =	[slapi] http respone:{"code":0,"data":{"host":"phsle-std01.oray.net:6061","hostid":1,"sign":"13409843"}}
+[5964]2017-03-27 14:47:02	- Info  -	[oraysl addr]get oraysl addr : phsle-std01.oray.net:6061
+[5964]2017-03-27 14:47:02	- Info  -	[start oraysl]strExec : PHDDnsOraysl.exe, bRet : 1, err : 18
+[5964]2017-03-27 14:47:02	- Info  -	ForwardService Set Account : hjdonghaibin end
+[5964]2017-03-27 14:47:02	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-03-27 14:47:04	- Info  -	New connection accepted, queue client
+[5964]2017-03-27 14:47:04	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:04	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:04	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:51	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:51	- Info  -	[ddns_manager] get_config_account begin
+[5964]2017-03-27 14:47:51	- Info  -	[ddns_manager] get_config_account end, load user: hjdonghaibin ok
+[5964]2017-03-27 14:47:51	- Info  -	ddns_updater::stop
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] loginning... username=hjdonghaibin, host=phddns60std.oray.net
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] OnUserInfo
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-03-27 14:47:52	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-03-27 14:47:52	- Info  -	ForwardService Set Account : hjdonghaibin begin
+[5964]2017-03-27 14:47:52	- Info  -	[fw_service]: save_only
+[5964]2017-03-27 14:47:52	= Debug =	[slapi] http call url:https://v3.cphapi.oray.net/server/get-oraysl?parameters={"auth":"3e02370e7706c33b2b4299844e30c33d","r":41,"sign":"13409843","usertype":0,"version":"phclient/3.3.0.14073"}
+[5964]2017-03-27 14:47:52	= Debug =	[http_call] attempt to connect server: v3.cphapi.oray.net/server/get-oraysl
+[5964]2017-03-27 14:47:52	= Debug =	[http_call] use alive stream/
+[5964]2017-03-27 14:47:52	= Debug =	[ssl_stream]ssl_read error: SSL - The peer notified us that the connection is going to be closed(-30848)
+
+[5964]2017-03-27 14:47:52	= Debug =	[http_call] create new stream
+[5964]2017-03-27 14:47:52	- Info  -	[http_call] connect server: v3.cphapi.oray.net:443(121.40.38.253)
+[5964]2017-03-27 14:47:52	= Debug =	[slapi] http respone:{"code":0,"data":{"host":"phsle-std01.oray.net:6061","hostid":1,"sign":"13409843"}}
+[5964]2017-03-27 14:47:52	- Info  -	[oraysl addr]get oraysl addr : phsle-std01.oray.net:6061
+[5964]2017-03-27 14:47:53	- Info  -	[start oraysl]strExec : PHDDnsOraysl.exe, bRet : 1, err : 0
+[5964]2017-03-27 14:47:53	- Info  -	ForwardService Set Account : hjdonghaibin end
+[5964]2017-03-27 14:47:53	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-03-27 14:47:53	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:58	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:58	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:47:58	- Info  -	ddns_updater::stop
+[5964]2017-03-27 14:48:00	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:48:00	- Info  -	[ddns_manager] get_config_account begin
+[5964]2017-03-27 14:48:00	- Info  -	[ddns_manager] get_config_account end, load user: hjdonghaibin ok
+[5964]2017-03-27 14:48:00	- Info  -	[ddns] loginning... username=hjdonghaibin, host=phddns60std.oray.net
+[5964]2017-03-27 14:48:00	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-03-27 14:48:00	= Debug =	ddns_updater::~ddns_updater()
+[5964]2017-03-27 14:48:00	= Debug =	ddns_updater::~ddns_updater()
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] OnUserInfo
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-03-27 14:48:01	- Info  -	ForwardService Set Account : hjdonghaibin begin
+[5964]2017-03-27 14:48:01	- Info  -	[fw_service]: save_only
+[5964]2017-03-27 14:48:01	= Debug =	[slapi] http call url:https://v3.cphapi.oray.net/server/get-oraysl?parameters={"auth":"3e02370e7706c33b2b4299844e30c33d","r":41,"sign":"13409843","usertype":0,"version":"phclient/3.3.0.14073"}
+[5964]2017-03-27 14:48:01	= Debug =	[http_call] attempt to connect server: v3.cphapi.oray.net/server/get-oraysl
+[5964]2017-03-27 14:48:01	= Debug =	[http_call] use alive stream/
+[5964]2017-03-27 14:48:01	= Debug =	[slapi] http respone:{"code":0,"data":{"host":"phsle-std01.oray.net:6061","hostid":1,"sign":"13409843"}}
+[5964]2017-03-27 14:48:01	- Info  -	[oraysl addr]get oraysl addr : phsle-std01.oray.net:6061
+[5964]2017-03-27 14:48:01	- Info  -	[start oraysl]strExec : PHDDnsOraysl.exe, bRet : 1, err : 0
+[5964]2017-03-27 14:48:01	- Info  -	ForwardService Set Account : hjdonghaibin end
+[5964]2017-03-27 14:48:01	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-03-27 14:48:01	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:48:28	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:01	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:03	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-03-27 14:49:09	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:09	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:27	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:27	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:40	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:49:40	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:09	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:09	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:21	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:22	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:22	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:25	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:26	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:27	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:34	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:34	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:34	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:35	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:36	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:37	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:38	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:38	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:38	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:40	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:50:41	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:51:34	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:51:34	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:41	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:42	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:42	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:43	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:44	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:52:44	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:47	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:47	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:48	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:49	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:49	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:51	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 14:57:51	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 15:05:13	- Info  -	New connection accepted rpcclient
+[5964]2017-03-27 17:21:53	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-03-27 17:22:45	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-03-28 02:08:01	- Info  -	start quiet upgrade
+[5964]2017-03-29 02:08:02	- Info  -	start quiet upgrade
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:02	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:03	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:03	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:17	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:44	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:45	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:45	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:46	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:50	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:03:50	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-29 11:21:30	- Info  -	New connection accepted rpcclient
+[5964]2017-03-30 02:08:02	- Info  -	start quiet upgrade
+[5964]2017-03-31 02:08:02	- Info  -	start quiet upgrade
+[5964]2017-03-31 11:33:24	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-03-31 11:36:18	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-01 01:23:36	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-01 01:24:28	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-01 02:08:03	- Info  -	start quiet upgrade
+[5964]2017-04-01 13:59:24	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-01 14:00:16	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-02 02:08:03	- Info  -	start quiet upgrade
+[5964]2017-04-03 02:07:52	- Info  -	start quiet upgrade
+[5964]2017-04-04 02:07:52	- Info  -	start quiet upgrade
+[5964]2017-04-05 02:07:53	- Info  -	start quiet upgrade
+[5964]2017-04-05 16:03:15	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-05 16:04:07	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-05 18:08:26	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-05 18:11:36	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-05 18:11:37	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:11:49	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:12:19	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:12:31	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:13:01	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:13:01	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:13:31	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:13:43	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:14:13	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:14:25	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:14:55	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:15:07	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:15:37	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:15:49	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:16:19	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:16:31	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:17:01	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:17:13	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:17:43	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:17:56	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:18:26	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:18:38	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:19:08	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:19:20	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:19:50	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:20:02	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:20:32	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:20:44	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:21:14	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:21:26	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:21:56	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:22:08	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:22:38	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:22:50	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:23:20	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:23:28	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-05 18:23:28	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-05 18:23:29	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-05 18:23:29	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-05 18:23:29	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-05 18:23:29	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-05 18:23:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-05 18:25:40	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-05 18:28:50	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-05 18:28:51	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:28:51	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:29:21	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:29:21	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-05 18:29:52	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-05 18:29:52	- Info  -	New connection accepted rpcclient
+[5964]2017-04-05 18:30:54	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-06 02:07:53	- Info  -	start quiet upgrade
+[5964]2017-04-06 12:45:51	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-06 12:49:01	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-06 12:49:02	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:49:14	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:49:44	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:49:56	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:50:26	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:50:38	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:51:08	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:51:20	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:51:50	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:52:02	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:52:32	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:52:44	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:53:14	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:53:26	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:53:56	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:54:08	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:54:38	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:54:50	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:55:20	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:55:33	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:56:03	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:56:15	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:56:45	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:56:57	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:57:27	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:57:39	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:58:09	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:58:21	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:58:51	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:59:03	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 12:59:33	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 12:59:45	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:00:15	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:00:27	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:00:57	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:01:09	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:01:39	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:01:51	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:02:22	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:02:34	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:03:04	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:03:16	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:03:46	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:03:58	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:04:28	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:04:40	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:05:10	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:05:22	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:05:52	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:06:04	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:06:34	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:06:46	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:07:16	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:07:28	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:07:58	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:08:10	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:08:40	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:08:52	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:09:22	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:09:34	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:10:04	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:10:16	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:10:46	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:10:58	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:11:28	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:11:40	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-06 13:12:11	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-06 13:12:15	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-06 13:12:15	- Info  -	New connection accepted rpcclient
+[5964]2017-04-06 13:13:17	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-07 02:07:53	- Info  -	start quiet upgrade
+[5964]2017-04-07 17:03:21	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-07 17:06:31	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-07 17:06:32	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-07 17:07:06	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-07 17:07:36	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-07 17:07:57	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-07 17:08:27	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-07 17:08:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-07 17:09:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-07 17:09:55	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-07 17:09:55	- Info  -	New connection accepted rpcclient
+[5964]2017-04-07 17:10:57	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-08 02:07:54	- Info  -	start quiet upgrade
+[5964]2017-04-09 02:07:54	- Info  -	start quiet upgrade
+[5964]2017-04-10 02:07:44	- Info  -	start quiet upgrade
+[5964]2017-04-11 02:07:44	- Info  -	start quiet upgrade
+[5964]2017-04-11 14:14:05	- Info  -	New connection accepted, queue client
+[5964]2017-04-11 14:14:05	- Info  -	New connection accepted rpcclient
+[5964]2017-04-11 14:14:05	- Info  -	New connection accepted rpcclient
+[5964]2017-04-11 14:14:06	- Info  -	New connection accepted rpcclient
+[5964]2017-04-12 02:07:45	- Info  -	start quiet upgrade
+[5964]2017-04-12 03:38:35	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-12 03:41:45	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-12 03:41:46	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-12 03:42:07	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-12 03:42:37	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-12 03:42:37	- Info  -	New connection accepted rpcclient
+[5964]2017-04-12 03:42:37	- Info  -	New connection accepted rpcclient
+[5964]2017-04-12 03:44:48	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-12 03:47:58	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-12 03:47:59	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-12 03:47:59	- Info  -	New connection accepted rpcclient
+[5964]2017-04-12 03:47:59	- Info  -	New connection accepted rpcclient
+[5964]2017-04-12 03:49:01	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-12 04:40:06	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-12 04:40:58	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-12 15:34:32	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-12 15:35:25	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-13 02:07:45	- Info  -	start quiet upgrade
+[5964]2017-04-13 13:22:07	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-13 13:25:17	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-13 13:25:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:25:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:25:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:25:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:26:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:26:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:26:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:26:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:27:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:27:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:27:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:27:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:28:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:28:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:28:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:28:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:29:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:29:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:29:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:29:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-13 13:30:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-13 13:30:19	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-13 13:30:19	- Info  -	New connection accepted rpcclient
+[5964]2017-04-13 13:30:19	- Info  -	New connection accepted rpcclient
+[5964]2017-04-13 13:31:21	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-14 00:04:28	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-14 00:07:38	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-14 00:07:39	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:07:51	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:08:21	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:08:33	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:09:03	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:09:15	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:09:46	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:09:58	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:10:28	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:10:40	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:11:10	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:11:22	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:11:52	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:12:04	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:12:34	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:12:46	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:13:16	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:13:28	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:13:58	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:14:10	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:14:40	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:14:52	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:15:22	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:15:34	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:16:04	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:16:16	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:16:46	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:16:58	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:17:29	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:17:41	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:18:11	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:18:23	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:18:53	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:19:05	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:19:35	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:19:47	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:20:17	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:20:29	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:20:59	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:21:11	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:21:41	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:21:53	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:22:23	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:22:35	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:23:05	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:23:17	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:23:47	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:23:59	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:24:30	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:24:42	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:25:12	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:25:24	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:25:54	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:26:06	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:26:36	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:26:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:27:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:27:30	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:28:00	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:28:12	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:28:42	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:28:54	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:29:24	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:29:36	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:30:06	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:30:18	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:30:48	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:31:00	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:31:30	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:31:42	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:32:12	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:32:24	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:32:54	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:33:06	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:33:36	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:33:48	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:34:18	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:34:30	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:35:00	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:35:12	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:35:43	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:35:55	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:36:25	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:36:37	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:37:07	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:37:19	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:37:49	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:38:01	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:38:31	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:38:43	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:39:13	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:39:25	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:39:55	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:40:07	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:40:37	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:40:49	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:41:19	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:41:31	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:42:01	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:42:13	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:42:44	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:42:56	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:43:26	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:43:38	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:44:08	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:44:20	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:44:50	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:45:02	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:45:32	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:45:44	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:46:14	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:46:26	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:46:56	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:47:08	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:47:38	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:47:50	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:48:20	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:48:32	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:49:02	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:49:14	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:49:44	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:49:56	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:50:26	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:50:38	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:51:09	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:51:21	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:51:51	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:52:03	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:52:33	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:52:45	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:53:15	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:53:27	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:53:57	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:54:09	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:54:39	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:54:51	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:55:21	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:55:33	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:56:03	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:56:15	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:56:45	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:56:57	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:57:27	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:57:39	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-14 00:58:09	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-14 00:58:10	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-14 00:58:11	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-14 00:58:11	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-14 00:58:11	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-14 00:58:11	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-14 00:58:11	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-14 00:58:11	- Info  -	New connection accepted rpcclient
+[5964]2017-04-14 00:58:11	- Info  -	New connection accepted rpcclient
+[5964]2017-04-14 00:59:13	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-14 02:07:45	- Info  -	start quiet upgrade
+[5964]2017-04-15 02:07:46	- Info  -	start quiet upgrade
+[5964]2017-04-16 02:07:46	- Info  -	start quiet upgrade
+[5964]2017-04-17 02:07:35	- Info  -	start quiet upgrade
+[5964]2017-04-18 02:07:36	- Info  -	start quiet upgrade
+[5964]2017-04-19 02:07:36	- Info  -	start quiet upgrade
+[5964]2017-04-20 02:07:36	- Info  -	start quiet upgrade
+[5964]2017-04-21 02:07:37	- Info  -	start quiet upgrade
+[5964]2017-04-21 11:32:54	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-21 11:36:04	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-21 11:36:05	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 11:36:17	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-21 11:36:47	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-21 11:36:47	- Info  -	New connection accepted rpcclient
+[5964]2017-04-21 11:36:47	- Info  -	New connection accepted rpcclient
+[5964]2017-04-21 11:37:49	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-21 12:00:21	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-21 12:03:31	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-21 12:03:32	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 12:03:44	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-21 12:04:14	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 12:04:26	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-21 12:04:56	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 12:05:08	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-21 12:05:38	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 12:05:50	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnStatusChanged -> okDomainListed
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnDomainRegistered -> hjtech.wicp.net
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnUserInfo
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnAccountDomainInfo
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] ========== hjtech.wicp.net  peanuthull-> open
+[5964]2017-04-21 12:06:20	- Info  -	[ddns] OnStatusChanged -> okDomainsRegistered
+[5964]2017-04-21 12:06:20	- Info  -	New connection accepted rpcclient
+[5964]2017-04-21 12:06:20	- Info  -	New connection accepted rpcclient
+[5964]2017-04-21 12:07:22	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-22 02:07:37	- Info  -	start quiet upgrade
+[5964]2017-04-23 02:07:37	- Info  -	start quiet upgrade
+[5964]2017-04-24 02:07:27	- Info  -	start quiet upgrade
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:24:51	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:25:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:25:11	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:28:25	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:28:26	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:28:31	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:28:32	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:28:52	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:29:22	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-24 09:38:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 02:07:28	- Info  -	start quiet upgrade
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:21:29	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:07	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:08	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:09	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:09	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:11	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:14	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:43	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:22:52	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:23:25	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:24:26	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:24:57	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-25 10:30:35	- Info  -	New connection accepted rpcclient
+[5964]2017-04-26 02:07:28	- Info  -	start quiet upgrade
+[5964]2017-04-27 02:07:29	- Info  -	start quiet upgrade
+[5964]2017-04-28 02:07:29	- Info  -	start quiet upgrade
+[5964]2017-04-28 02:21:33	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-28 02:22:25	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-28 05:50:59	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-28 05:51:51	- Info  -	[ddns] OnStatusChanged -> okKeepAliveRecved
+[5964]2017-04-29 02:07:29	- Info  -	start quiet upgrade
+[5964]2017-04-29 07:47:30	- Info  -	[ddns] OnStatusChanged -> errorKeepAliveError
+[5964]2017-04-29 07:50:40	- Info  -	[ddns] OnStatusChanged -> errorRetrying
+[5964]2017-04-29 07:50:40	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:50:52	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:50:52	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:51:04	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:51:04	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:51:16	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:51:16	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:51:28	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:51:28	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:51:40	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:51:40	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:51:53	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:51:53	- Info  -	[ddns] OnStatusChanged -> okConnecting
+[5964]2017-04-29 07:52:05	- Info  -	[ddns] OnStatusChanged -> errorConnectFailed
+[5964]2017-04-29 07:52:05	- Info  -	[ddns] OnStatusChanged -> okConnecting

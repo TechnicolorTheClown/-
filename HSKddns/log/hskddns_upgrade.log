@@ -1,0 +1,5 @@
+[4392]2017-06-26 09:12:32	- Info  -	[ugprade]start check upgrade
+[4392]2017-06-26 09:12:32	= Debug =	[http_call] attempt to connect server: client.oray.net/upgrade/check
+[4392]2017-06-26 09:12:32	= Debug =	[http_call] create new stream because alive streams is empty.
+[4392]2017-06-26 09:12:32	- Info  -	[http_call] connect server: client.oray.net:443(61.152.96.115)
+[4392]2017-06-26 09:12:32	- Info  -	[upgrade]check upgrade success, level is 0
